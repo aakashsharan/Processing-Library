@@ -1,6 +1,8 @@
-Coding Practice to learn Processing Library
+CODING PRACTICE TO LEARN PROCESSING LIBRARY
+
 
 What is it?
+
 Practice examples to learn Processing Library.
 
 ==================================================================
